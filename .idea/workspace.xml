@@ -3,21 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="ff078f83-e20a-4e0c-86ad-b74614e1afdf" name="Changes" comment="initial commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HUMIS/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HUMIS/files/brownBox.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HUMIS/files/histBooks01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HUMIS/files/histHomepic.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HUMIS/files/histSchedule.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HUMIS/files/historyHeader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HUMIS/files/historyHome.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HUMIS/files/login-cis.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HUMIS/files/login-humis.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HUMIS/files/u_small.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HUMIS/files/uofu_medallion_rt.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HUMIS/files/women_w_pottery.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HUMIS/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HUMIS/stylesheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheet.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,24 +23,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "leviander"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;leviander&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/leviander/HUMIS.git",
-    "accountId": "5f6253cd-88af-48a9-80fd-87b9577f2843"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/leviander/HUMIS.git&quot;,
+    &quot;accountId&quot;: &quot;5f6253cd-88af-48a9-80fd-87b9577f2843&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="39rTbU9khAQbeg4sstr6eRgq3Kq" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -61,6 +49,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.index.html.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -94,7 +83,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1771453262308</updated>
-      <workItem from="1771453263358" duration="1127000" />
+      <workItem from="1771453263358" duration="2193000" />
+      <workItem from="1771534449673" duration="2880000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -104,7 +94,23 @@
       <option name="project" value="LOCAL" />
       <updated>1771453955487</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1771454412341</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1771454412341</updated>
+    </task>
+    <task id="LOCAL-00003" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1771454521981</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1771454521981</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

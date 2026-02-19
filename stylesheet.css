@@ -1,17 +1,12 @@
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Myriad Regular, Helvetica, sans-serif;
 }
 
 div#parent {
-    border: 1px solid black;
+    border: 1px solid lightgray;
     width: 780px;
     margin: 0 auto;
-    height: 1010px;
 }
-
-/*div#parent section {*/
-/*    border: 1px solid black;*/
-/*}*/
 
 section.sub-head {
     background-image: url('files/histHomepic.jpg');
@@ -20,28 +15,28 @@ section.sub-head {
     height: 50px;
 }
 
-section.main-content-area { /* declaration for a section tag whose class is "main-content-area" */
+section.main-content-area {
     min-height: 400px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     background-image: url("files/uofu_medallion_rt.gif");
+    background-size: 45%;
     background-repeat: no-repeat;
     background-position: bottom right;
 
-    nav.secondary { /* applies to all nav tags found inside (descendants of) section.main-content-area */
+    nav.secondary {
         min-height: 20px;
-        border: 1px dotted black;
         text-align: right;
         padding-right: 20px;
         font-size: 11px;
         display: flex;
         justify-content: flex-end;
         align-items: center;
-        padding-bottom: 10px;
 
         img {
             padding: 5px;
+            width: 12px;
         }
 
         a {
@@ -50,7 +45,7 @@ section.main-content-area { /* declaration for a section tag whose class is "mai
             text-decoration: none;
             text-transform: uppercase;
 
-            &:hover { /* Pseudo-class declaration */
+            &:hover {
                 text-decoration: underline;
             }
         }
@@ -64,9 +59,9 @@ section.main-content-area { /* declaration for a section tag whose class is "mai
         }
     }
 
-    section.brown-box {
+    section.green-box {
         background-color: #BEC3A1;
-        padding: 20px;
+        padding: 10px 20px 20px 20px;
         border-radius: 10px;
         min-height: 400px;
         display: flex;
@@ -74,7 +69,7 @@ section.main-content-area { /* declaration for a section tag whose class is "mai
         margin: 5px 20px 70px 20px;
 
         .left-side {
-            width: 30%;
+            width: 32%;
             display: flex;
             flex-direction: column;
             justify-content: space-between;
@@ -104,7 +99,8 @@ section.main-content-area { /* declaration for a section tag whose class is "mai
 
                 img {
                     justify-self: left;
-                    width: 90%;
+                    width: 75%;
+                    margin: 10px;
                 }
             }
         }
@@ -112,10 +108,10 @@ section.main-content-area { /* declaration for a section tag whose class is "mai
         .right-side {
             width: 62%;
             background-color: white;
-            padding: 15px;
-            margin-bottom: 20px;
+            padding: 10px;
+            margin: 5px 7px 55px 20px;
 
-            h4 {
+            h5 {
                 text-transform: uppercase;
                 color: #60663e;
                 padding-bottom: 5px;
@@ -129,7 +125,7 @@ section.main-content-area { /* declaration for a section tag whose class is "mai
             p {
                 font-size: 10px;
                 strong {
-                    font-size: 14px;
+                    font-size: 12px;
                 }
             }
 
@@ -161,7 +157,7 @@ section.footer {
 }
 
 
-h4 {
+h5 {
     color: red;
     border-bottom: 2px dashed red;
     font-weight: unset;
